@@ -74,4 +74,13 @@ We then used two CNN architectures pre-trained on the ImageNet Dataset namely, V
 
 
 
+## Brains behind this project:
+
+<a href="https://github.com/utkarsh-crypto">Utkarsh Aggarwal :smile: </a>
+
+<a href="https://github.com/anvit1618"> Anvit Agarwal 👽 </a>
+
+<a href="https://github.com/shikhar-shri"> Shikhar Shrivastava :smile: </a>
+
+
 
