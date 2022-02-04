@@ -2,8 +2,10 @@
 
 ## Motivation & Abstract
 
-Gender prediction has been in increasing demand in the Computer Vision sphere. The need for the ability to predict the gender of a person has many uses. As the world gets more digital by the day, it is absolutely viable to make use of technology like AI to tackle such problems. 
-Our motivation was to analyze why some state of the art architectures perform the way they do.
+Gender prediction has been in increasing demand in the Computer Vision sphere. The need for the ability to predict the gender of a person has many uses. As the world gets more digital by the day, it is absolutely viable to make use of technology like AI to tackle such problems. Further, it can be used by the biometric system at airports/railways/government buildings to verify people. The uses are limited by creativity and imagination.
+
+In the AI community there are no certain guidelines regarding how hyperparameters affect a model’s performance. We have tried our best to shed some light on this issue. Also our motivation was to analyze why some state of the art architectures perform the way they do.
+
 
 ## Proposed Methodology
 
