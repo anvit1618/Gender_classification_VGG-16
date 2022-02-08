@@ -70,7 +70,7 @@ For our gender classification task on the UTKFace dataset of 20,000 images, we p
 The entire implementation was done on google collaboratory which provided the high-end hardware specification of the google servers.
 Tensorflow and keras were primary libraries used in the code.
 
-We then used two CNN architectures pre-trained on the ImageNet Dataset namely, VGG-16 and InceptionV3. Both the models with 10 epochs but both got preempted as their accuracy didn’t improve further. The results were drawn and it was found that InceptionV3 performs better. We analyzed the various factors due to which this could be so and the major reason behind the superior performance of the InceptionV3 architecture on this dataset could be attributed to the depth of the model which is able to extract and learn much more complex features than VGG-16 architecture.
+We then used two CNN architectures pre-trained on the ImageNet Dataset namely, VGG-16 and InceptionV3. Both the models with 10 epochs but both got preempted as their accuracy didn’t improve further. The results were drawn and it was found that InceptionV3 performs better. We analyzed the various factors due to which this could be so.
 
 
 
